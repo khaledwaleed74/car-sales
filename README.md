@@ -39,7 +39,4 @@ Dynamic filters allow users to drill down into data and explore performance from
 
 The analysis highlights a healthy and growing business with consistent demand and stable pricing strategy, indicating strong and sustainable performance over time.
 
----
-
-
-أظهر التحليل نموًا ملحوظًا في المبيعات بنسبة 23.59% مقارنة بنفس الفترة من العام الماضي، وزيادة في عدد السيارات المباعة بنسبة 19.73%، مع استقرار متوسط السعر، مما يعكس أداءً صحيًا ومستدامًا للشركة.
+أظهر التحليل نموًا ملحوظًا في المبيعات بنسبة 23.59% مقارنة بنفس الفترة من العام الماضي، وزيادة في عدد السيارات المباعة بنسبة 19.73%، مع استقرار متوسط السعر، مما يعكس أداءً صحيًا ومستدامًا للشرك  
